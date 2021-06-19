@@ -1,7 +1,7 @@
 /node_modules
 /storage/*.key
 /*.zip
-/vendor
+
 /.idea
 /.vagrant
 Homestead.json
