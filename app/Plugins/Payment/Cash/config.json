@@ -1,0 +1,11 @@
+{
+    "name": "Cash module",
+    "image": "images/logo1.png",
+    "auth": "Naruto",
+    "email": "lanhktc@gmail.com",
+    "link": "https://S-Cart.Org",
+    "configGroup": "Plugins",
+    "configCode": "Payment",
+    "configKey": "Cash",
+    "version": "1.1"
+}
